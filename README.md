@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**OluchiEzeifedikwa/OluchiEzeifedikwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Oluchi;Backend+Engineer;Building+with+Node.js+%26+TypeScript;Open+to+collaboration" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🔭 Backend Engineer based in Lagos, Nigeria
+- 💻 Working mainly with Node.js, TypeScript, PostgreSQL & MongoDB
+- 🌱 Currently building with **HNG Tech** and **EVoolv**
+- 📫 Reach me at oluchiezeifedikwa@gmail.com or [LinkedIn](https://www.linkedin.com/in/oluchi-ezeifedikwa)
+- 🌐 Portfolio: [oluchieze-portfolio.vercel.app](https://oluchieze-portfolio.vercel.app/)
