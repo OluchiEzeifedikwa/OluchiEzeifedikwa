@@ -9,6 +9,7 @@
 ### About Me
 
 - 🔭 Backend Engineer based in Lagos, Nigeria
+- - 🎯 Seeking a Software Engineer Internship 
 - 💻 Working mainly with Node.js, NestJS, TypeScript, Prisma ORM, TypeORM, PostgreSQL & MongoDB
 - 🌱 Currently building with **EVoolv**
 - 📫 Reach me at oluchiezeifedikwa@gmail.com or [LinkedIn](https://www.linkedin.com/in/oluchi-ezeifedikwa)
