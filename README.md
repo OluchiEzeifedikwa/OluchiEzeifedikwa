@@ -9,7 +9,7 @@
 ### About Me
 
 - 🔭 Backend Engineer based in Lagos, Nigeria
-- 💻 Working mainly with Nestjs, Node.js, TypeScript, Prisma ORM, TypeORM, PostgreSQL & MongoDB
+- 💻 Working mainly with Node.js, NestJS, TypeScript, Prisma ORM, TypeORM, PostgreSQL & MongoDB
 - 🌱 Currently building with **EVoolv**
 - 📫 Reach me at oluchiezeifedikwa@gmail.com or [LinkedIn](https://www.linkedin.com/in/oluchi-ezeifedikwa)
-- 🌐 Portfolio: [oluchieze-portfolio.vercel.app](https://oluchieze-portfolio.vercel.app/)
+- 🔗 [CV](https://oluchieze-portfolio.vercel.app/cv.html) · [Portfolio](https://oluchieze-portfolio.vercel.app/)
